@@ -282,10 +282,6 @@ footer p {
 }
 
 
-@media screen and (max-width 480px){
-    .social-media , .about, .certificates,.projects , .container, .education, .container img, footer{
-        width: auto;
-    }
 @media screen and (max-width: 767px) {
     .social-media , .about, .certificates,.projects , .container, .education, .container img, footer
    {
