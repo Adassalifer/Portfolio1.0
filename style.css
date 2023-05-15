@@ -289,7 +289,7 @@ footer p {
 }
 
 
-@media screen and (max-width 480px){
+@media screen and (max-width: 480px){
     .social-media , .social-media li a ,.about, .certificates,.projects , .container1, .container, .education, .container img, .footer{
         width: auto;
     }
