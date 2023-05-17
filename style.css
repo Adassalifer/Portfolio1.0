@@ -3,7 +3,7 @@ body {
     font-family: 'Quicksand', sans-serif;
     background-color: #f2f2f2;
     color: black;
-    margin-right: 70px;
+    margin-right:  4.375rem;
 }
 
 a {
@@ -114,7 +114,7 @@ div {
      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
     border: 1px solid #ddd;
     border-radius: 10px;
-     max-width: 1200px;
+     max-width: 75rem;
      margin: 0 auto;
 }
 article {
@@ -130,7 +130,7 @@ article {
      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
     border: 1px solid #ddd;
     border-radius: 10px;
-    max-width: 1200px;
+    max-width: 75rem;
      margin: 0 auto;
     
     
