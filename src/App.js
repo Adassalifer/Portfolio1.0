@@ -135,7 +135,7 @@ function App() {
    <section id="education">
   <h2>Minha formação</h2>
   <div className="certificates">
-    <Slider dots={true} infinite={true} slidesToShow={4} slidesToScroll={4}>
+    <Slider dots={true} infinite={true} slidesToShow={3} slidesToScroll={3}>
       <div>
       <img src="design.jpg" alt="Designer de Moda" />
       </div>
