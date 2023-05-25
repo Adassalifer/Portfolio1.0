@@ -100,7 +100,7 @@ function App() {
             <div className="project-info">
               <h2>Site de Hogwarts</h2>
               <p> Projeto solicitado pela faculdade SENAC. Etapas: formulários de 
-                inscrição com MySql e protótipo e front-end do site desenvolvidos no Figma.</p>
+                inscrição com MySql, o protótipo e front-end do site foram desenvolvidos no Figma.</p>
               <ul className="technologies-used">
               <li><img src="figma_logo_icon_147289.png" alt="Ícone Fígma" /></li>
 
